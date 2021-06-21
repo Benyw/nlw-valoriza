@@ -7,7 +7,7 @@ app.get('/', (request, response) => {
 });
 
 app.post('/test-post', (request, response) => {
-    return response.send('Suas informações foram captadas com sucesso!');
+  return response.send('Suas informações foram captadas com sucesso!');
 })
 
 app.listen(3000, () => {
