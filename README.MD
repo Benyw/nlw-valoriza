@@ -23,3 +23,14 @@
   [X] Não é permitido cadastrar elogios para usuários inválidos
 
   [X] O usuário precisa estar autenticado na aplicação
+
+## Milhas extras
+
+- Notificar os usuários por e-mail quando recebem um elogio
+- Colocar a aplicação em produção
+- Criar um front para a aplicação (WEB, Mobile, etc)
+- Aplicar diferentes arquiteturas na aplicação
+- Criar uma tratativa mais robusta para os erros
+- Migrar a aplicação para um banco de dados diferente (MySQL, Postgres, etc)
+- Adicionar rotas de consultas mais específicas com filtros
+- Criar logs para a aplicação
